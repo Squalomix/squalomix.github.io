@@ -1,5 +1,3 @@
-# squalomix.github.io
-
 # Squalomix - shark genomics and beyond
 
 ## What is 'Squalomix'?
