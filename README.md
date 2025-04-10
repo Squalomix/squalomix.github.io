@@ -39,7 +39,7 @@ H, PacBio HiFi reads<br>
 C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 #, Our flagship species<br>
 
-Last updated on July 4, 2024
+Last updated on April 10, 2025
 
 | Species |T|S|X|N|P|H|C|
 |----|----|----|----|----|----|----|----|
@@ -50,7 +50,7 @@ Last updated on July 4, 2024
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    | O | O |
 | Blue shark *Prionace glauca* | O | O | | |  | O | O |
 | Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
-| Porbeagle shark *Lamna nasus* |  |  | | |  | O |  |
+| Porbeagle shark *Lamna nasus* |  |  | | |  | O | O |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
 | Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
@@ -71,8 +71,8 @@ Last updated on July 4, 2024
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
 | Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  | O | O |
-| Goblin shark *Mitsukurina owstoni* |  |  | | |  |  |  |
-| Naru eagle ray *Aetobatus narutobiei* |  |  | | |  |  |  |
+| Goblin shark *Mitsukurina owstoni* |  |  | | |  | O |  |
+| Naru eagle ray *Aetobatus narutobiei* | O |  | | |  | O | O |
 
 
 This list includes some species for which our collaborators take an initiative in genome sequencing. Also see the species list on [Genomes on a Tree (GoaT)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix).
