@@ -16,7 +16,6 @@ The taxon Elasmobranchii (sharks and rays) is one of the most long-established e
 [BLAST-based sequence search](https://transcriptome.riken.jp/squalomix/blast/)<br>
 [NCBI BioProject entry](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598) <br>
 Gene expression profiles based on published RNA-seq data ([cloudy catshark](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586); [brownbanded bamboo shark](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634))<br>
-#[Zebra shark genome browser powered by JBrowse2](https://transcriptome.riken.jp/squalomix/jbrowse2_sfasciatum/?session=local-default)<br>
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
