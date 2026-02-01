@@ -146,6 +146,7 @@ There are other parties working on chondrichthyan genes and genomes and other ki
 [Shark References](https://www.shark-references.com/)<br>
 [Eschmeyer's Catalog of Fishes](https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp?_gl=1*15hauts*_gcl_au*MTc3Mzk4NzQ1OS4xNzI0ODg4Mzk2*_ga*ODU0OTE5ODYyLjE3MjQ4ODgzOTY.*_ga_6Y72VP61VZ*MTcyNDg4ODM5NS4xLjAuMTcyNDg4ODM5OC41Ny4wLjA.)<br>
 [Listing of developmental staging studies on a chondrichthyan species](https://github.com/Squalomix/devstage/)
+[AnAge Database](https://genomics.senescence.info/species/browser.php?type=2&name=Chondrichthyes#) to query longevity records of chondrichthyan species
 
 ## Squalomix data use policy
 
