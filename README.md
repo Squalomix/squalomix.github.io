@@ -41,37 +41,37 @@ C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 Last updated on April 10, 2025
 
 | Species |T|S|X|N|P|H|C|
-|----|----|----|----|----|----|----|----|
-| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O |   | O | O | O | O |
-| Whale shark  *Rhincodon typus* | O | O | O | O |   |  | O |
-| #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |
-| #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
-| #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    | O | O |
-| Blue shark *Prionace glauca* | O | O | | |  | O | O |
-| Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
-| Porbeagle shark *Lamna nasus* |  |  | | |  | O | O |
-| Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
-| Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
-| Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
-| Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | |
-| #Red stingray *Hemitrygon akajei*  | O | O | | |  | O | O |
-| Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
-| Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
-| Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
-| Frilled shark *Chlamydoselachus anguineus* | O | | |  | | O | O |
-| #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | O | O |
-| Shark ray *Rhina ancylostoma*  | O | | | |  | O | |
-| #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | O | |
-| Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
-| Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
-| Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
-| White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | O |
-| Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
-| Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
-| Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
-| Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  | O | O |
-| Goblin shark *Mitsukurina owstoni* |  |  | | |  | O |  |
-| Naru eagle ray *Aetobatus narutobiei* | O |  | | |  | O | O |
+|----|----|----|----|----|----|----|----|----|
+| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O |   | O | O | O | O |[Niwa et al. 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122)|
+| Whale shark  *Rhincodon typus* | O | O | O | O |   |  | O |[Kawaguchi et al. 2026](https://doi.org/10.1093/gigascience/giag014)|
+| #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |[Niwa et al. 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122)|
+| #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |[Yamaguchi et al. 2023](https://genome.cshlp.org/content/33/9/1527)|
+| #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    | O | O ||
+| Blue shark *Prionace glauca* | O | O | | |  | O | O ||
+| Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O ||
+| Porbeagle shark *Lamna nasus* |  |  | | |  | O | O ||
+| Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  ||
+| Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | ||
+| Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | ||
+| Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | ||
+| #Red stingray *Hemitrygon akajei*  | O | O | | |  | O | O |[Kuraku et al. 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1.full)|
+| Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | ||
+| Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | ||
+| Japanese sleeper ray *Narke japonica*  | O | | | |  | | ||
+| Frilled shark *Chlamydoselachus anguineus* | O | | |  | | O | O ||
+| #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | O | O ||
+| Shark ray *Rhina ancylostoma*  | O | | | |  | O | ||
+| #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | O | ||
+| Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | ||
+| Japanese angelshark *Squatina japonica*  | O | | ||   | O | O ||
+| Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | ||
+| White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | O |[Kuraku et al. 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1.full)|
+| Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |[Teramura et al., 2026](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsag003/8482272?searchresult=1)|
+| Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O ||
+| Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |[Yang et al. 2025](https://www.biorxiv.org/content/10.1101/2025.02.19.638963v1)|
+| Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  | O | O ||
+| Goblin shark *Mitsukurina owstoni* |  |  | | |  | O |  ||
+| Naru eagle ray *Aetobatus narutobiei* | O |  | | |  | O | O ||
 
 
 This list includes some species for which our collaborators take an initiative in genome sequencing. Also see the species list on [Genomes on a Tree (GoaT)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix).
