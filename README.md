@@ -40,7 +40,7 @@ C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 
 Last updated on April 10, 2025
 
-| Species |T|S|X|N|P|H|C|
+| Species |T|S|X|N|P|H|C|Publication|
 |----|----|----|----|----|----|----|----|----|
 | #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O |   | O | O | O | O |[Niwa et al. 2025](https://www.pnas.org/doi/10.1073/pnas.2513676122)|
 | Whale shark  *Rhincodon typus* | O | O | O | O |   |  | O |[Kawaguchi et al. 2026](https://doi.org/10.1093/gigascience/giag014)|
