@@ -1,7 +1,7 @@
 # Squalomix - shark genomics and beyond
 
 ## What is 'Squalomix'?
-Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://youtu.be/3VG6t4Bqt8w). Very importantly, we don't stick to performing de novo sequencing and are rather open to collaborating with other projects for contributing complimentary samples and analyses in order to maximize existing resources. Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
+Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s). Very importantly, we don't stick to performing de novo sequencing and are rather open to collaborating with other projects for contributing complimentary samples and analyses in order to maximize existing resources. Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
 
 For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.social) and [X](https://x.com/Squalomix4earth).
 
@@ -20,7 +20,7 @@ Gene expression profiles based on published RNA-seq data ([cloudy catshark](http
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
 
-[![Squalomix trailer movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://youtu.be/tyPxEsTeCg8)
+[![Squalomix trailer movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s))
 
 
 
