@@ -81,6 +81,8 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
+|2026 May| Our PCR-based sexing preprint released at bioRxiv |
+|2026 May| Our activity introduced at [Sharks International 2026](https://si2026.org/)  |
 |2025 Aug| Our activity introduced at [International Basking Shark Conference](https://www.baskingshark.ie/conference2025)  |
 |2025 Aug| Our activity introduced at [Congress of the European Society of Evolutionary Biology (ESEB)](https://eseb2025.com/)  |
 |2025 Jun| Partnership with [Shark-References](https://shark-references.com/)  |
