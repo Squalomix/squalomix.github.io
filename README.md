@@ -9,18 +9,16 @@ For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.s
 ![logo](Squalomix-logo5.JPG)
 
 ## Why sharks (and rays)?
-The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing absence of their whole genome sequence information, resulting from the elusiveness and low fecundity of those animals, as well as the large and repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
+The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing scarcity of their whole genome sequence information, resulting from the elusiveness and low fecundity of those animals, as well as the large and repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for validating genome sequence assembly. 
 
 ## Access to our products
-[Data archive gateway](https://transcriptome.riken.jp/squalomix/)<br>
-[BLAST-based sequence search](https://transcriptome.riken.jp/squalomix/blast/)<br>
 [NCBI BioProject entry](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598) <br>
 Gene expression profiles based on published RNA-seq data ([cloudy catshark](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586); [brownbanded bamboo shark](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634))<br>
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
 
-[![Squalomix trailer movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s))
+[![Squalomix introduction movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s))
 
 
 
@@ -38,7 +36,7 @@ H, PacBio HiFi reads<br>
 C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 #, Our flagship species<br>
 
-Last updated on April 10, 2025
+Last updated on May 8, 2026
 
 | Species |T|S|X|N|P|H|C|Latest publication|
 |----|----|----|----|----|----|----|----|----|
