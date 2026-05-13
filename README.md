@@ -1,7 +1,15 @@
 # Squalomix - shark genomics and beyond
 
 ## What is 'Squalomix'?
-Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s). Very importantly, we don't stick to performing de novo sequencing and are rather open to collaborating with other projects for contributing complimentary samples and analyses in order to maximize existing resources. Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
+Cartilaginous fishes (sharks, rays, chimaeras) charted an evolutionary trajectory distinct from other lineages. ​Not simply generalized as "fish," these species require dedicated research frameworks to decode their lives. Since 2020, Squalomix has met this need sustainably. Partnering with public aquariums, marine stations, and allied consortia, we study diverse species—from migratory pelagic sharks to our core focus, Japanese coastal biodiversity. Crucially, this collaborative hub incubates the early-career researchers cycling through our operations.
+
+​We integrate genome data with rigorous laboratory solutions. To navigate the highly variable genome organization across cartilaginous fishes, we anchor our sequencing output in empirical cellular-level analysis, enabling karyotyping and nuclear DNA content measurement. This biology-first foundation yields profound insights, including unveiling the evolutionary organization of their sex chromosomes, now recognized as the oldest among vertebrates.
+
+​Furthermore, we move beyond sequencing and computation. Informatically derived evolutionary hypotheses are reconstructively verified via experiments. Our in vitro systems embody this approach, enabling the exploration of unique adaptations, as demonstrated in our research on whale shark deep-sea vision.
+
+​Our scope spans from contributing to genetic monitoring of wild populations to deeply decoding their unique lifestyles. By deciphering the genomic grammar that translates the information encoded in DNA into higher-order biological phenomena—such as an organism's pace of life—we seek to elucidate the fundamental principles driving the vertebrate tree of life.
+
+Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
 
 For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.social) and [X](https://x.com/Squalomix4earth).
 
@@ -9,7 +17,7 @@ For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.s
 ![logo](Squalomix-logo5.JPG)
 
 ## Why sharks (and rays)?
-The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing scarcity of their whole genome sequence information, resulting from the elusiveness and low fecundity of those animals, as well as the large and repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for validating genome sequence assembly. 
+The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing scarcity of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for validating genome sequence assembly. 
 
 ## Access to our products
 [NCBI BioProject entry](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598) <br>
@@ -24,7 +32,7 @@ Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium
 
 
 ## Species
-We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. We are working on the species listed below for transcriptome or/and genome sequencing. 
+We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrificing adults, while also supporting laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. We are working on the species listed below for transcriptome or/and genome sequencing. 
 
 Status of sequencing data acquisition<br>
 T, transcriptome reads<br>
@@ -131,7 +139,7 @@ The contents of this section have been moved to the repository [C-value](https:/
 ## Our technical basis
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
 
-We released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for adaptable Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences are validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7)). 
+We have released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for versatile Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences are validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7)). 
 
 Most recently, [a technical note for Hi-C scaffolding using YaHS](https://github.com/TkNiw/Note-for-YaHS), based on our internal benchmarking by Taiki Niwa, has been made available. 
 
@@ -150,9 +158,9 @@ There are other parties working on chondrichthyan genes and genomes and other ki
 
 ## Squalomix data use policy
 
-Newly formulated on October 13, 2024
+Newly formulated on May 13, 2026
 
-We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
+We often release our sequence data once we begin manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
 
 Unlike many genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release. Please understand that we do not necessarily release data as openly as other consortia.
 
