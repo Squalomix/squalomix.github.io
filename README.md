@@ -1,6 +1,9 @@
 # Squalomix - shark genomics and beyond
 
 ## What is 'Squalomix'?
+
+![logo](Squalomix-logo5.JPG)
+
 Cartilaginous fishes (sharks, rays, chimaeras) charted an evolutionary trajectory distinct from other lineages. ​Not simply generalized as "fish," these species require dedicated research frameworks to decode their lives. Since 2020, Squalomix has met this need sustainably. Partnering with public aquariums, marine stations, and allied consortia, we study diverse species—from migratory pelagic sharks to our core focus, Japanese coastal biodiversity. Crucially, this collaborative hub incubates the early-career researchers cycling through our operations.
 
 ​We integrate genome data with rigorous laboratory solutions. To navigate the highly variable genome organization across cartilaginous fishes, we anchor our sequencing output in empirical cellular-level analysis, enabling karyotyping and nuclear DNA content measurement. This biology-first foundation yields profound insights, including unveiling the evolutionary organization of their sex chromosomes, now recognized as the oldest among vertebrates.
@@ -14,8 +17,6 @@ Please find more details in [our position paper](https://doi.org/10.12688/f1000r
 For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.social) and [X](https://x.com/Squalomix4earth).
 
 
-![logo](Squalomix-logo5.JPG)
-
 ## Why sharks (and rays)?
 The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing scarcity of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for validating genome sequence assembly. 
 
@@ -25,11 +26,7 @@ Gene expression profiles based on published RNA-seq data ([cloudy catshark](http
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
-
-[![Squalomix introduction movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s))
-
-
-
+[![Watch the video](Squalomix-Movie2026-Thumbnail.png)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s)
 
 ## Species
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrificing adults, while also supporting laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. We are working on the species listed below for transcriptome or/and genome sequencing. 
