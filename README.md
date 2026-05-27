@@ -1,6 +1,6 @@
 # Squalomix - shark genomics and beyond
 
-![logo](Squalomix-logo5.JPG)
+![logo](SqualomixLogo2026a.JPG)
 
 ## What is 'Squalomix'?
 
