@@ -71,10 +71,12 @@ Last updated on May 8, 2026
 | White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | O |[Kuraku et al. 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1.full)|
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |[Teramura et al., 2026](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsag003/8482272?searchresult=1)|
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O ||
-| Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |[Yang et al. 2025](https://www.biorxiv.org/content/10.1101/2025.02.19.638963v1)|
+| Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |[Yang et al. 2026](https://doi.org/10.1073/pnas.2601272123)|
 | Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  | O | O ||
 | Goblin shark *Mitsukurina owstoni* |  |  | | |  | O |  ||
-| Naru eagle ray *Aetobatus narutobiei* | O |  | | |  | O | O ||
+| Naru eagle ray *Aetobatus narutobiei* |  |  | | |  | O | O ||
+| Bluntnose sixgill shark *Hexanchus griseus* |  |  | | |  | O |  ||
+| Kitefin shark *Dalatias licha* |  |  | | |  | O |  ||
 
 
 This list includes some species for which our collaborators take an initiative in genome sequencing. <br>
