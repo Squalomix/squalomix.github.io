@@ -57,7 +57,7 @@ Last updated on May 27, 2026
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | ||
 | Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | ||
 | Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | ||
-| #Red stingray *Hemitrygon akajei*  | O | O | | |  | O | O |[Kuraku et al. 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1.full)|
+| #Red stingray *Hemitrygon akajei*  | O | O | | |  | O | O |[Kuraku et al. 2026](https://doi.org/10.1101/gr.281149.125)|
 | Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | ||
 | Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | ||
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | ||
@@ -68,7 +68,7 @@ Last updated on May 27, 2026
 | Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | ||
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O ||
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | ||
-| White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | O |[Kuraku et al. 2025](https://www.biorxiv.org/content/10.1101/2025.06.08.657570v1.full)|
+| White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | O |[Kuraku et al. 2026](https://doi.org/10.1101/gr.281149.125)|
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |[Teramura et al., 2026](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsag003/8482272?searchresult=1)|
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O ||
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |[Yang et al. 2026](https://doi.org/10.1073/pnas.2601272123)|
