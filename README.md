@@ -87,7 +87,7 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
-|2026|Sep| Our opsin study presented at [21st Intl Conf Retinal Protein (ICRP)](https://www.congressi.unisi.it/retinalproteins2026/)|
+|2026 Sep| Our opsin study presented at [21st Intl Conf Retinal Protein (ICRP)](https://www.congressi.unisi.it/retinalproteins2026/)|
 |2026 May| Our [PCR-based sexing preprint](https://www.biorxiv.org/content/10.64898/2026.05.02.722412v1) released at bioRxiv |
 |2026 May| Our activity introduced at [Sharks International 2026](https://si2026.org/)  |
 |2025 Aug| Our activity introduced at [International Basking Shark Conference](https://www.baskingshark.ie/conference2025)  |
