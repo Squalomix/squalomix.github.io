@@ -51,7 +51,7 @@ Last updated on May 27, 2026
 | #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |[Yamaguchi et al. 2023](https://genome.cshlp.org/content/33/9/1527)|
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    | O | O ||
 | Blue shark *Prionace glauca* | O | O | | |  | O | O ||
-| Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O ||
+| Shortfin mako *Isurus oxyrinchus* |  | O | | |  | O | O ||
 | Porbeagle shark *Lamna nasus* |  |  | | |  | O | O ||
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  ||
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | ||
@@ -83,7 +83,7 @@ This list includes some species for which our collaborators take an initiative i
 Also see the species list on [Genomes on a Tree (GoaT)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix).
 
 ## History
-The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
+The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about earlirer genomic studies.
 
 |Year-Month| Event|
 |----|----|
@@ -93,7 +93,7 @@ The chronological information about our activity before and after the launch of 
 |2025 Aug| Our activity introduced at [International Basking Shark Conference](https://www.baskingshark.ie/conference2025)  |
 |2025 Aug| Our activity introduced at [Congress of the European Society of Evolutionary Biology (ESEB)](https://eseb2025.com/)  |
 |2025 Jun| Partnership with [Shark-References](https://shark-references.com/)  |
-|2025 Jun| Partnership with [European Reference Genome Atlas (ERGA)](https://shark-references.com/)  |
+|2025 Jun| Partnership with [European Reference Genome Atlas (ERGA)](https://www.erga-biodiversity.eu/)  |
 |2025 Jun| Presentation about our activity at [2025 ASI-IPFC12](https://www.2025asi-ipfc12.tw/site/page.aspx?pid=901&sid=1597&lang=en)  |
 |2025 Apr| Presentation about our activity at [PacBio PRISM 2025 at Da Nang, Vietnam](https://events.pacb.com/prism2025-danang)  |
 |2025 Apr| Our activity introduced to [NIG Open House 2025](https://www.nig.ac.jp/koukai/koukai2025/)  |
@@ -148,7 +148,7 @@ Most recently, [a technical note for Hi-C scaffolding using YaHS](https://github
 There are other parties working on chondrichthyan genes and genomes and other kinds of molecular data production. Included below are links to some of those efforts.<br>
 [Entries at NCBI Genomes](https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=7777) for the taxon Chondrichthyes<br>
 [Inventory at GenomeSync](http://genomesync.nig.ac.jp/statistics/?cn=7777&tree_depth=20&show=genome&show=species&show=genus&show=family&show=order&q=7777&et=1&search_complete=1&complete=words&lin=1) for the taxon Chondrichthyes<br>
-[Published studies focusing at least partly on cartiaginous fishes at PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=genome+AND+%28Chondrichthyan+OR+shark+OR+Elasmobranch+OR+Chondrichthyes+OR+skate+OR+Batoidea+OR+Batomorpha+OR+Selachimorpha%29&sort=date) (The search criterion may not be specific enough)<br>
+[Published studies focusing at least partly on cartilaginous fishes at PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=genome+AND+%28Chondrichthyan+OR+shark+OR+Elasmobranch+OR+Chondrichthyes+OR+skate+OR+Batoidea+OR+Batomorpha+OR+Selachimorpha%29&sort=date) (The search criterion may not be specific enough)<br>
 [Entries at GoaT (Genomes on a tree)](https://goat.genomehubs.org/search?query=tax_tree%28Chondrichthyes%29&result=taxon&includeEstimates=true&summaryValues=count&taxonomy=ncbi&offset=0&fields=c_value%2Cgenome_size%2Cgenome_size_kmer%2Cgenome_size_draft%2Cassembly_level%2Cassembly_span%2Cbusco_completeness%2Cgc_percent%2Cchromosome_number%2Chaploid_number%2Csample_sex%2Csample_location%2Csample_collected%2Csample_collected_by%2Csample_acquired%2Cin_progress%2Cinsdc_open%2Cpublished%2Csequencing_status%2Csequencing_status_africabp%2Csequencing_status_ag100pest%2Csequencing_status_asg%2Csequencing_status_b10k%2Csequencing_status_canbp%2Csequencing_status_cbp%2Csequencing_status_ccgp%2Csequencing_status_cfgp%2Csequencing_status_dtol%2Csequencing_status_ebpn%2Csequencing_status_endemixit%2Csequencing_status_erga%2Csequencing_status_eurofish%2Csequencing_status_gaga%2Csequencing_status_giga%2Csequencing_status_ilebp%2Csequencing_status_loewe-tbg%2Csequencing_status_metainvert%2Csequencing_status_other%2Csequencing_status_pgp%2Csequencing_status_squalomix%2Csequencing_status_vgp%2Csequencing_status_zoonomia%2Csequencing_status_omg%2Csequencing_status_arg%2Csequencing_status_agi%2Csequencing_status_tsi%2Csequencing_status_gap%2Csequencing_status_gbr%2Csequencing_status_ebp&names=&ranks=&size=100#tax_tree(Chondrichthyes))<br>
 
 ## Other useful resources
