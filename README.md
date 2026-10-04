@@ -87,21 +87,21 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
-|2026 Sep| Our opsin study presented at [21st Intl Conf Retinal Protein (ICRP)](https://www.congressi.unisi.it/retinalproteins2026/)|
+|2026 Sep| Our opsin study presented at [21st Intl Conf Retinal Proteins (ICRP)](https://www.congressi.unisi.it/retinalproteins2026/) held in Siena, Italy|
 |2026 May| Our [PCR-based sexing preprint](https://www.biorxiv.org/content/10.64898/2026.05.02.722412v1) released at bioRxiv |
-|2026 May| Our activity introduced at [Sharks International 2026](https://si2026.org/)  |
-|2025 Aug| Our activity introduced at [International Basking Shark Conference](https://www.baskingshark.ie/conference2025)  |
-|2025 Aug| Our activity introduced at [Congress of the European Society of Evolutionary Biology (ESEB)](https://eseb2025.com/)  |
+|2026 May| Our activity introduced at [Sharks International 2026](https://si2026.org/) held in Colombo, Sri Lanka |
+|2025 Aug| Our activity introduced at [International Basking Shark Conference](https://www.baskingshark.ie/conference2025) in Galway, Ireland |
+|2025 Aug| Our activity introduced at [Congress of the European Society of Evolutionary Biology (ESEB)](https://eseb2025.com/) in Barcelona, Spain |
 |2025 Jun| Partnership with [Shark-References](https://shark-references.com/)  |
 |2025 Jun| Partnership with [European Reference Genome Atlas (ERGA)](https://www.erga-biodiversity.eu/)  |
 |2025 Jun| Presentation about our activity at [2025 ASI-IPFC12](https://www.2025asi-ipfc12.tw/site/page.aspx?pid=901&sid=1597&lang=en)  |
 |2025 Apr| Presentation about our activity at [PacBio PRISM 2025 at Da Nang, Vietnam](https://events.pacb.com/prism2025-danang)  |
 |2025 Apr| Our activity introduced to [NIG Open House 2025](https://www.nig.ac.jp/koukai/koukai2025/)  |
 |2024 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2024](https://www.biodiversitygenomicsconference.org/)  |
-|2024 Oct| Presentation about our activity at [International Workshop on Chondrichthyan Development and Genomics](https://armi.org.au/international-workshop-on-chondrichthyan-development-and-genomics-2024/)  |
+|2024 Oct| Presentation about our activity at [International Workshop on Chondrichthyan Development and Genomics](https://armi.org.au/international-workshop-on-chondrichthyan-development-and-genomics-2024/) held in Prato, Italy |
 |2023 Dec| Our activity introduced at [MBSJ conference](https://www2.aeplan.co.jp/mbsj2023/en-index.html) in Kobe  |
 |2023 Aug| Our [original paper](https://genome.cshlp.org/content/33/9/1527) reporting first elasmobranch sex chromosome DNA sequences (in zebra shark and whale shark) published in Genome Res.|
-|2023 Apr| Our activity introduced at on-site conference [9th International Symposium on the Biology of Vertebrate Sex Determination](https://www.vsd-hawaii.com/) |
+|2023 Apr| Our activity introduced at on-site conference [9th International Symposium on the Biology of Vertebrate Sex Determination](https://www.vsd-hawaii.com/) held in Hawaii|
 |2023 Mar| Our [original paper](https://academic.oup.com/gbe/article/15/3/evad028/7048455) reporting retained egg yolk protein (vitellogenin) repertoires in viviparous sharks published in GBE|
 |2023 Mar| Our [original paper](https://www.pnas.org/doi/10.1073/pnas.2220728120) reporting unique 'blue-shift' mechanism of whale shark rhodopsin published in PNAS|
 |2022 Oct| Presentation about our activity at [Virtual Conference Sharks International 2022](https://www.si2022.org/)  |
