@@ -6,7 +6,7 @@ permalink: /repos/karyotype/
 
 # Karyotypes
 
-The table below was derived from the Supplementary Table of [Uno et al., Commun Biol 2020](https://www.nature.com/articles/s42003-020-01373-7). The entries citing 'Uno et al., 2020' in the References columns are the karyotypes newly reported in that study (reference 47 below), which established our cell culture-based karyotyping for elasmobranchs. Technical details of the cell culture are given in the Supplementary Information file of Uno et al. (2020).
+The table below was derived from the Supplementary Table of [Uno et al., Commun Biol 2020](https://www.nature.com/articles/s42003-020-01373-7). The entries citing 'Uno et al., 2020' in the References columns are the karyotypes newly reported in that study (reference 47 below), which established our cell culture-based karyotyping for elasmobranchs. Technical details of the cell culture are given in the Supplementary Information file of Uno et al. (2020). Establishing the culture was not routine work: the peculiar body fluid composition of elasmobranchs had long hindered the routine cell culturing required for karyotyping.
 
 | Order | *Species name* | Chromosome no. (2n) | References | Sex chromosomes | References |
 | :--- | :--- | :--- | :--- | :--- | :--- |
