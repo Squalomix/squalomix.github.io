@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Leader
 
-Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genetics, Japan, where he heads the [Molecular Life History Laboratory](https://www.treethinkers.info/squalomix).
+Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genetics, Japan, where he heads the [Molecular Life History Laboratory](https://www.treethinkers.info/squalomix). Squalomix is the **only genome consortium dedicated to cartilaginous fishes**.
 
 <div class="accent-bar" aria-hidden="true"></div>
 

@@ -42,7 +42,7 @@ For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.s
 
 ## Why sharks (and rays)?
 
-The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing scarcity of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for validating genome sequence assembly.
+The taxon Elasmobranchii (sharks and rays), whose diversification spans more than 400 million years, remains severely underrepresented in molecular-level research. This limitation is attributable to the long-standing scarcity of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for validating genome sequence assembly. Their life histories are equally distinctive — life-cycle plasticity spanning reproductive modes from oviparity to placental viviparity, late maturity, and in some species century-scale longevity.
 
 More about the consortium: [About](about.md). Our outputs are collected under [Data & Tools](data.md), the species we work on under [Species](species.md), and our papers under [Publications](publications.md).
 
