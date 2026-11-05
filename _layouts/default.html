@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" href="{{ "/assets/favicon.ico" | relative_url }}" sizes="any">
+    <link rel="icon" type="image/png" href="{{ "/assets/favicon-32.png" | relative_url }}" sizes="32x32">
+    <link rel="apple-touch-icon" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% if site.logo %}
+          <a href="{{ "/" | relative_url }}"><img src="{{ site.logo | relative_url }}" alt="Squalomix" /></a>
+        {% endif %}
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+
+        <!-- Left-side menu: main pages + topic pages (mostly one
+             page per repository, plus Selected species and the
+             Data Use Policy). This is the single customisation
+             added to the stock jekyll-theme-minimal layout. -->
+        <nav class="sidenav">
+          <ul>
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/about/" | relative_url }}">About</a></li>
+            <li><a href="{{ "/history/" | relative_url }}">History</a></li>
+            <li><a href="{{ "/species/" | relative_url }}">Species</a></li>
+            <li><a href="{{ "/data/" | relative_url }}">Data &amp; Tools</a></li>
+            <li><a href="{{ "/achievements/" | relative_url }}">Achievements</a></li>
+            <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
+          </ul>
+          <h3>Topics</h3>
+          <ul>
+            <li><a href="{{ "/selected-species/" | relative_url }}">Selected species</a></li>
+            <li><a href="{{ "/repos/c-value/" | relative_url }}">Genome sizes</a></li>
+            <li><a href="{{ "/repos/karyotype/" | relative_url }}">Karyotypes</a></li>
+            <li><a href="{{ "/repos/iconhi-c/" | relative_url }}">iconHi-C</a></li>
+            <li><a href="{{ "/repos/sneg/" | relative_url }}">SNEG</a></li>
+            <li><a href="{{ "/repos/repeats/" | relative_url }}">Repeats</a></li>
+            <li><a href="{{ "/repos/devstage/" | relative_url }}">Developmental staging</a></li>
+            <li><a href="{{ "/data-use-policy/" | relative_url }}">Data Use Policy</a></li>
+          </ul>
+          <h3>Related</h3>
+          <ul>
+            <li><a href="{{ "/repos/utr-modeling/" | relative_url }}">UTR modeling</a></li>
+            <li><a href="{{ "/repos/extra/" | relative_url }}">Squalomix Extra</a></li>
+            <li><a href="{{ "/links/" | relative_url }}">Links</a></li>
+          </ul>
+        </nav>
+
+        <p class="view"><a href="https://github.com/Squalomix">View on GitHub</a></p>
+        <p class="social-icons"><a href="https://bsky.app/profile/kurakulabmsm.bsky.social" aria-label="Bluesky"><svg class="icon-bsky" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Bluesky</title><path d="M5.202 2.857C7.954 4.922 10.913 9.11 12 11.358c1.087-2.247 4.046-6.436 6.798-8.501C20.783 1.366 24 .213 24 3.883c0 .732-.42 6.156-.667 7.037-.856 3.061-3.978 3.842-6.755 3.37 4.854.826 6.089 3.562 3.422 6.299-5.065 5.196-7.28-1.304-7.847-2.97-.104-.305-.152-.448-.153-.327 0-.121-.05.022-.153.327-.568 1.666-2.782 8.166-7.847 2.97-2.667-2.737-1.432-5.473 3.422-6.3-2.777.473-5.899-.308-6.755-3.369C.42 10.04 0 4.615 0 3.883c0-3.67 3.217-2.517 5.202-1.026"/></svg></a><a href="https://x.com/Squalomix4earth" aria-label="X"><svg class="icon-x" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg></a></p>
+      </header>
+      <section>
+      {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
