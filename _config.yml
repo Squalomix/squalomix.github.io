@@ -4,3 +4,14 @@ theme: jekyll-theme-minimal
 logo: /assets/header-shark.jpg
 show_downloads: false
 lang: en-US
+url: "https://squalomix.github.io"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: "Squalomix is a shark and ray genome analysis consortium at the National Institute of Genetics, Japan, decoding the genomes and biology of cartilaginous fishes."
+      image: /assets/banner.jpg
+
+twitter:
+  username: Squalomix4earth

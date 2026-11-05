@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 permalink: /
 ---
 
@@ -34,11 +33,12 @@ Cartilaginous fishes (sharks, rays, chimaeras) charted an evolutionary trajector
 
 ​Our scope spans from contributing to genetic monitoring of wild populations to deeply decoding their unique lifestyles. By deciphering the genomic grammar that translates the information encoded in DNA into higher-order biological phenomena—such as an organism's pace of life—we seek to elucidate the fundamental principles driving the vertebrate tree of life.
 
-Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
+Please find more details in our position paper ([Nishimura et al., F1000Research 2025](#how-to-cite)).
 
-For updates, follow us on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.social) and [X](https://x.com/Squalomix4earth).
+For updates, follow the consortium on [X (@Squalomix4earth)](https://x.com/Squalomix4earth) and the Kuraku Lab on [Bluesky](https://bsky.app/profile/kurakulabmsm.bsky.social).
 
-<a href="https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s"><img class="video-thumb" src="assets/movie.png" alt="Watch the video"></a>
+<a href="https://www.youtube.com/watch?v=tyPxEsTeCg8"><img class="video-thumb" src="assets/movie.png" alt="Watch the introductory movie on YouTube"></a>
+<p class="fig-cap">Introductory movie: "Squalomix 2026 — genomics &amp; beyond" (YouTube).</p>
 
 ## Why sharks (and rays)?
 
@@ -46,6 +46,27 @@ The taxon Elasmobranchii (sharks and rays), whose diversification spans more tha
 
 More about the consortium: [About](about.md). Our outputs are collected under [Data & Tools](data.md), the species we work on under [Species](species.md), and our papers under [Publications](publications.md).
 
-Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).
+## How to cite
+
+<div class="cite-box" markdown="1">
+
+Nishimura, O., Rozewicki, J., Yamaguchi, K. et al. Squalomix: shark and ray genome analysis consortium and its data sharing platform. *F1000Research* 11: 1077 (version 2, 2025; first published in 2022).
+
+DOI: [10.12688/f1000research.123591.2](https://doi.org/10.12688/f1000research.123591.2) · PMID: [36262334](https://pubmed.ncbi.nlm.nih.gov/36262334/)
+
+<details>
+<summary>BibTeX</summary>
+<pre>@article{Nishimura2025Squalomix,
+  author  = {Nishimura, Osamu and Rozewicki, John and Yamaguchi, Kazuaki and others},
+  title   = {Squalomix: shark and ray genome analysis consortium and its data sharing platform},
+  journal = {F1000Research},
+  year    = {2025},
+  volume  = {11},
+  pages   = {1077},
+  doi     = {10.12688/f1000research.123591.2}
+}</pre>
+</details>
+
+</div>
 
 *Last updated: November 5, 2026*
