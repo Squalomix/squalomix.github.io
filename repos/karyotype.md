@@ -103,121 +103,121 @@ The table below was derived from the Supplementary Table of [Uno et al., Commun 
 <div class="accent-bar" aria-hidden="true"></div>
 
 References:
-<a id="ref-1"></a>1. Nygren, A. & Jahnke, M. Microchromosomes in primitive fishes. Swed. J. Agric.
+1. <a id="ref-1"></a>Nygren, A. & Jahnke, M. Microchromosomes in primitive fishes. Swed. J. Agric.
 Res. 2, 229–238 (1972).
-<a id="ref-2"></a>2. Ohno, S. et al. Microchromosomes in holocephalian, chondrostean and holostean
+2. <a id="ref-2"></a>Ohno, S. et al. Microchromosomes in holocephalian, chondrostean and holostean
 fishes. Chromosoma 26, 35–40 (1969). [DOI](https://doi.org/10.1007/bf00319498)
-<a id="ref-3"></a>3. Schwartz, F. J. & Maddock, M. B. Comparisons of karyotypes and cellular DNA
+3. <a id="ref-3"></a>Schwartz, F. J. & Maddock, M. B. Comparisons of karyotypes and cellular DNA
 contents within and between major lines of elasmobranch in Indo-Pacific Fish
 Biology (ed. Uyeno, T., Arai, R., Tuniuchi, T., &Matsuura, K.) 148–157
 (Ichthyological Society Japan, 1986).
-<a id="ref-4"></a>4. Schwartz, F. J. & Maddock, M. B. Cytogenetics of the elasmobranchs: genome
+4. <a id="ref-4"></a>Schwartz, F. J. & Maddock, M. B. Cytogenetics of the elasmobranchs: genome
 evolution and phylogenetic implications. Mar. Freshwater Res. 53, 491–502 (2002). [DOI](https://doi.org/10.1071/mf01139)
-<a id="ref-5"></a>5. Asahida, T., Ida, H. & Hayashizaki, K. Karyotypes and cellular DNA contents of
+5. <a id="ref-5"></a>Asahida, T., Ida, H. & Hayashizaki, K. Karyotypes and cellular DNA contents of
 some sharks in the order Carcharhiniformes. Jpn. J. Ichthyol. 42, 21–26 (1995). [DOI](https://doi.org/10.11369/jji1950.42.21)
-<a id="ref-6"></a>6. Maddock, M. B. & Schwartz, F. J. Elasmobranch cytogenetics: methods and sex
+6. <a id="ref-6"></a>Maddock, M. B. & Schwartz, F. J. Elasmobranch cytogenetics: methods and sex
 chromosomes. Bull. Mar. Sci. 58, 147–155 (1996). [Article](https://www.ingentaconnect.com/contentone/umrsmas/bullmar/1996/00000058/00000001/art00007)
-<a id="ref-7"></a>7. Yabu, H. & Ishii, K. Chromosomes of the great blue shark Prionace glauca
+7. <a id="ref-7"></a>Yabu, H. & Ishii, K. Chromosomes of the great blue shark Prionace glauca
 (Linnaeus). Bull. Jpn. Soc. Sci. Fish. 50, 7–10 (1984). [DOI](https://doi.org/10.2331/suisan.50.7)
-<a id="ref-8"></a>8. Rocco, L. Sex-related genomic sequences in cartilaginous fish: an overview.
+8. <a id="ref-8"></a>Rocco, L. Sex-related genomic sequences in cartilaginous fish: an overview.
 Cytogenet. Genome Res. 141, 169–176 (2013). [DOI](https://doi.org/10.1159/000354773)
-<a id="ref-9"></a>9. Asahida, T., Ida, H. & Inoue, T. Karyotypes and cellular DNA contents of two
+9. <a id="ref-9"></a>Asahida, T., Ida, H. & Inoue, T. Karyotypes and cellular DNA contents of two
 sharks in the family Scyliorhinidae. Jpn. J. Ichthyol. 35, 215–219 (1988). [DOI](https://doi.org/10.11369/jji1950.35.215)
-<a id="ref-10"></a>10. Matthey, R. La formule chromosomiale du Selacien Scyliorhinus catula. C. R.
+10. <a id="ref-10"></a>Matthey, R. La formule chromosomiale du Selacien Scyliorhinus catula. C. R.
 Seanc. Soc. Biol. 126, 388–389 (1937).
-<a id="ref-11"></a>11. Stingo, V. New developments in vertebrate cytotaxonomy II. the chromosomes of
+11. <a id="ref-11"></a>Stingo, V. New developments in vertebrate cytotaxonomy II. the chromosomes of
 the cartilaginous fishes. Genetica 50, 227–239 (1979). [DOI](https://doi.org/10.1007/bf00122048)
-<a id="ref-12"></a>12. Rocco, L., Morescalchi, M. A., Costagliola, D. & Stingo, V. Karyotype and genome
+12. <a id="ref-12"></a>Rocco, L., Morescalchi, M. A., Costagliola, D. & Stingo, V. Karyotype and genome
 characterization in four cartilaginous fishes. Gene 295, 289–298 (2002). [DOI](https://doi.org/10.1016/s0378-1119(02)00730-8)
-<a id="ref-13"></a>13. Asahida, T. & Ida, H. Karyological notes on four sharks in the order
+13. <a id="ref-13"></a>Asahida, T. & Ida, H. Karyological notes on four sharks in the order
 Carcharhiniformes. Jpn. J. Ichthyol. 36, 275–280 (1989). [DOI](https://doi.org/10.1007/bf02914332)
-<a id="ref-14"></a>14. Ida, H., Asahida, T., Yano, K. & Tanaka, S. Karyotypes of two sharks,
+14. <a id="ref-14"></a>Ida, H., Asahida, T., Yano, K. & Tanaka, S. Karyotypes of two sharks,
 Chlamydoselachus anguineus and Heterodontus japonicus, and their systematic
 implications in Indo-Pacific Fish Biology (ed. Uyeno, T., Arai, R., Tuniuchi, T.,
 &Matsuura, K.) 158–163 (Ichthyological Society Japan, 1986).
-<a id="ref-15"></a>15. Stingo, V. & Capriglione, T. DNA and chromosomal evolution in cartilaginous fish
+15. <a id="ref-15"></a>Stingo, V. & Capriglione, T. DNA and chromosomal evolution in cartilaginous fish
 in Indo-Pacific Fish Biology (ed. Uyeno, T., Arai, R., Tuniuchi, T., &Matsuura, K.)
 140–147 (Ichthyological Society Japan, 1986).
-<a id="ref-16"></a>16. Nygren, A., Nilsson, B. & Jahnke, M. Cytological studies in Hypotremata and
+16. <a id="ref-16"></a>Nygren, A., Nilsson, B. & Jahnke, M. Cytological studies in Hypotremata and
 Pleurotremata (pisces). Hereditas 67, 275–282 (1971). [DOI](https://doi.org/10.1111/j.1601-5223.1971.tb02380.x)
-<a id="ref-17"></a>17. Makino, S. The chromosomes of two elasmobranch fishes. Cytologia Fujii Jubilaei,
+17. <a id="ref-17"></a>Makino, S. The chromosomes of two elasmobranch fishes. Cytologia Fujii Jubilaei,
 867–876 (1937). [DOI](https://doi.org/10.1508/cytologia.fujiijubilaei.867)
-<a id="ref-18"></a>18. Asahida, T. & Ida, H. Karyotypes of two rays, Torpedo tokionis and Dasyatis
+18. <a id="ref-18"></a>Asahida, T. & Ida, H. Karyotypes of two rays, Torpedo tokionis and Dasyatis
 matsubarai, and their systematic relationships. Jpn. J. Ichthyol. 37, 71–75 (1990). [DOI](https://doi.org/10.11369/jji1950.37.71)
-<a id="ref-19"></a>19. Donahue, W. H. A karyotypic study of three species of Rajiformes (Chondrichthyes,
+19. <a id="ref-19"></a>Donahue, W. H. A karyotypic study of three species of Rajiformes (Chondrichthyes,
 Pisces). Can. J. Genet. Cytol. 16, 203–211 (1974). [DOI](https://doi.org/10.1139/g74-020)
-<a id="ref-20"></a>20. Asahida, T., Ida, H. & Inoue, S. Karyotypes of three rays in the order
+20. <a id="ref-20"></a>Asahida, T., Ida, H. & Inoue, S. Karyotypes of three rays in the order
 Myliobatiformes. Jpn. J. Ichthyol. 33, 426–430 (1987). [DOI](https://doi.org/10.1007/bf02904110)
-<a id="ref-21"></a>21. Rocco, L., Costagliola, D., Fiorillo, M., Tinti, F. & Stingo, V. Molecular and
+21. <a id="ref-21"></a>Rocco, L., Costagliola, D., Fiorillo, M., Tinti, F. & Stingo, V. Molecular and
 chromosomal analysis of ribosomal cistrons in two cartilaginous fish, Taeniura
 lymma and Raja montagui (Chondrichthyes, Batoidea). Genetica 123, 245–253
 (2005). [DOI](https://doi.org/10.1007/s10709-004-2451-3)
-<a id="ref-22"></a>22. Rocco, L. Molecular markers in cartilaginous fish cytogenetics. in Fish cytogenetics
+22. <a id="ref-22"></a>Rocco, L. Molecular markers in cartilaginous fish cytogenetics. in Fish cytogenetics
 (Pisano, E., Ozouf-Costaz, C., Foresti, F. & Kapoor, B. G.) 473–490 (Science
 Publishers, 2007). [DOI](https://doi.org/10.1201/b10746-18)
-<a id="ref-23"></a>23. Asahida, T., Ida, H., Terashima, H. & Chang, H.-Y. The karyotype and cellular DNA
+23. <a id="ref-23"></a>Asahida, T., Ida, H., Terashima, H. & Chang, H.-Y. The karyotype and cellular DNA
 content of a ray, Mobula japonica. Jpn. J. Ichthyol. 40, 317–322 (1993). [DOI](https://doi.org/10.11369/jji1950.40.317)
-<a id="ref-24"></a>24. Valentim, F. C. S., Falcão, J. N., Porto, J. I. R. & Feldberg, E. Chromosomes of three
+24. <a id="ref-24"></a>Valentim, F. C. S., Falcão, J. N., Porto, J. I. R. & Feldberg, E. Chromosomes of three
 freshwater stingrays (Rajiformes Potamotrygonidae) from the Rio Negro basin,
 Amazon, Brazil. Genetica 128, 33–39 (2006). [DOI](https://doi.org/10.1007/s10709-005-3816-y)
-<a id="ref-25"></a>25. Valentim, F. C. S., Porto, J. I. R. & Feldberg, E. Chromosomal characterization of
+25. <a id="ref-25"></a>Valentim, F. C. S., Porto, J. I. R. & Feldberg, E. Chromosomal characterization of
 Amazonian freshwater stingrays with evidence for new karyomorphs and XX/XY
 sex chromosomes. Genet. Mol. Biol. 42, 578–593 (2019). [DOI](https://doi.org/10.1590/1678-4685-gmb-2018-0229)
-<a id="ref-26"></a>26. Cruz, V. P., Shimabukuro-Dias, C. K., Oliveira, C. & Foresti, F. Karyotype
+26. <a id="ref-26"></a>Cruz, V. P., Shimabukuro-Dias, C. K., Oliveira, C. & Foresti, F. Karyotype
 description and evidence of multiple sex chromosome system X1 X1 X2 X2 /X1 X2 Y in
 Potamotrygon aff. motoro and P. falkneri (Chondrichthyes: Potamotrygonidae) in
 the upper Paraná River basin, Brazil. Neotrop. Ichthyol. 9, 201–208 (2011). [DOI](https://doi.org/10.1590/s1679-62252011000100020)
-<a id="ref-27"></a>27. Aichino, D. R. et al. Characterization and description of a multiple sex chromosome
+27. <a id="ref-27"></a>Aichino, D. R. et al. Characterization and description of a multiple sex chromosome
 system in Potamotrygon motoro (Chondrichthyes, Myliobatiformes) from the
 Paraná River, Argentina. Genet. Mol. Res. 12, 2368–2375 (2013). [DOI](https://doi.org/10.4238/2013.january.16.3)
-<a id="ref-28"></a>28. Valentim, F. C. S., Porto, J. I. R., Bertollo, L. A. C., Gross, M. C. & Feldberg, E.
+28. <a id="ref-28"></a>Valentim, F. C. S., Porto, J. I. R., Bertollo, L. A. C., Gross, M. C. & Feldberg, E.
 XX/XO, a rare sex chromosome system in Potamotrygon freshwater stingray from
 the Amazon Basin, Brazil. Genetica 141, 381–387 (2013). [DOI](https://doi.org/10.1007/s10709-013-9737-2)
-<a id="ref-29"></a>29. Rocco, L. et al. Molecular and karyological aspects of Batoidea (Chondrichthyes,
+29. <a id="ref-29"></a>Rocco, L. et al. Molecular and karyological aspects of Batoidea (Chondrichthyes,
 Elasmobranchi) phylogeny. Gene 389, 80–86 (2007). [DOI](https://doi.org/10.1016/j.gene.2006.09.024)
-<a id="ref-30"></a>30. Kikuno, T. & Y. Ojima, 1987. A karyotypic studies of a guitar fish, Rhinobatos
+30. <a id="ref-30"></a>Kikuno, T. & Y. Ojima, 1987. A karyotypic studies of a guitar fish, Rhinobatos
 hyinnicephalus Richardson (Pisces, Rajiformes). La Kromosomo II 47–48: 1538–
 1544.
-<a id="ref-31"></a>31. Asahida, T. & Ida, H. Karyotype and cellular DNA content of a guitarfish,
+31. <a id="ref-31"></a>Asahida, T. & Ida, H. Karyotype and cellular DNA content of a guitarfish,
 Rhinobatos schlegelii. La Kromosomo II 79–80, 2725–2730 (1995).
-<a id="ref-32"></a>32. Ida, H., Sato, I. & Miyawaki, N. Karyotypes of two species in the order
+32. <a id="ref-32"></a>Ida, H., Sato, I. & Miyawaki, N. Karyotypes of two species in the order
 Torpediniformes. Jpn. J. Ichthyol. 32, 107–111 (1985). [DOI](https://doi.org/10.11369/jji1950.32.107)
-<a id="ref-33"></a>33. Stingo, V., Rocco, L., Odierna, G. & Bellitti, M. NOR and heterochromatin analysis
+33. <a id="ref-33"></a>Stingo, V., Rocco, L., Odierna, G. & Bellitti, M. NOR and heterochromatin analysis
 in two cartilaginous fishes by C-, Ag- and RE (restriction endonuclease)-banding.
 Cytogenet. Cell Genet. 71, 228–234 (1995). [DOI](https://doi.org/10.1159/000134116)
-<a id="ref-34"></a>34. Rocco, L. Molecular and Chromosomal Markers for Evolutionary Considerations in
+34. <a id="ref-34"></a>Rocco, L. Molecular and Chromosomal Markers for Evolutionary Considerations in
 Torpediniformes (Chondrichthyes, Batoidea). ISRN Genetics 2013, 1–10 (2013). [DOI](https://doi.org/10.5402/2013/808750)
-<a id="ref-35"></a>35. Garner, W. D. Elasmobranch tissue culture: in vitro growth of brain explants from a
+35. <a id="ref-35"></a>Garner, W. D. Elasmobranch tissue culture: in vitro growth of brain explants from a
 shark (Rhizoprionodon) and dogfish (Squalus). Tissue Cell 20, 759–761 (1988). [DOI](https://doi.org/10.1016/0040-8166(88)90020-1)
-<a id="ref-36"></a>36. Hartmann, J. X., Bissoon, L. M. & Poyer, J. C. Routine establishment of primary
+36. <a id="ref-36"></a>Hartmann, J. X., Bissoon, L. M. & Poyer, J. C. Routine establishment of primary
 elasmobranch cell cultures. In Vitro Cell. Dev. Biol. 28A, 77–79 (1992). [DOI](https://doi.org/10.1007/bf02631008)
-<a id="ref-37"></a>37. Poyer, J. C. & Hartmann, J. X. Establishment of a cell line from brain tissue of the
+37. <a id="ref-37"></a>Poyer, J. C. & Hartmann, J. X. Establishment of a cell line from brain tissue of the
 silky shark, Carcharhinus falciformis. In Vitro Cell. Dev. Biol. 28A, 682–684
 (1992). [DOI](https://doi.org/10.1007/bf02631047)
-<a id="ref-38"></a>38. Parton, A. et al. Cell and molecular biology of SAE, a cell line from the spiny
+38. <a id="ref-38"></a>Parton, A. et al. Cell and molecular biology of SAE, a cell line from the spiny
 dogfish shark, Squalus acanthias. Comp. Biochem. Physiol. C Toxicol. Pharmacol.
 145, 111–119 (2007). [DOI](https://doi.org/10.1016/j.cbpc.2006.07.003)
-<a id="ref-39"></a>39. Grogan, E. D. & Lund, R. A culture system for the maintenance and proliferation of
+39. <a id="ref-39"></a>Grogan, E. D. & Lund, R. A culture system for the maintenance and proliferation of
 shark and sting ray immunocytes. J. Fish Biol. 36, 633–642 (1990). [DOI](https://doi.org/10.1111/j.1095-8649.1990.tb04318.x)
-<a id="ref-40"></a>40. McKinney, E. C. Proliferation of shark leukocytes. In Vitro Cell. Dev. Biol. 28A,
+40. <a id="ref-40"></a>McKinney, E. C. Proliferation of shark leukocytes. In Vitro Cell. Dev. Biol. 28A,
 303–305 (1992). [DOI](https://doi.org/10.1007/bf02877052)
-<a id="ref-41"></a>41. Maddock, M. B. & Schwartz, F. J. Elasmobranch cytogenetics: methods and sex
+41. <a id="ref-41"></a>Maddock, M. B. & Schwartz, F. J. Elasmobranch cytogenetics: methods and sex
 chromosomes. Bull. Mar. Sci. 58, 147–155 (1996). [Article](https://www.ingentaconnect.com/contentone/umrsmas/bullmar/1996/00000058/00000001/art00007)
-<a id="ref-42"></a>42. Walsh, C. J. & Luer, C. A. Comparative phagocytic and pinocytic activities of
+42. <a id="ref-42"></a>Walsh, C. J. & Luer, C. A. Comparative phagocytic and pinocytic activities of
 leucocytes from peripheral blood and lymphomyeloid tissues of the nurse shark
 (Ginglymostoma cirratum Bonaterre) and the clearnose skate (Raja eglanteria
 Bosc). Fish Shellfish Immunol. 8, 197–215 (1998). [DOI](https://doi.org/10.1006/fsim.1997.0137)
-<a id="ref-43"></a>43. Walsh, C. J. et al. Nitric oxide production by nurse shark (Ginglymostoma cirratum)
+43. <a id="ref-43"></a>Walsh, C. J. et al. Nitric oxide production by nurse shark (Ginglymostoma cirratum)
 and clearnose skate (Raja eglanteria) peripheral blood leucocytes. Fish Shellfish
 Immunol. 20, 40–46 (2006). [DOI](https://doi.org/10.1016/j.fsi.2005.03.011)
-<a id="ref-44"></a>44. Helmrich, A. & Barnes, D. Zebrafish embryonal cell culture. Methods Cell Biol. 59,
+44. <a id="ref-44"></a>Helmrich, A. & Barnes, D. Zebrafish embryonal cell culture. Methods Cell Biol. 59,
 29–37 (1999). [DOI](https://doi.org/10.1016/s0091-679x(08)61818-x)
-<a id="ref-45"></a>45. Uno, Y. et al. Divergence of repetitive DNA sequences in the heterochromatin of
+45. <a id="ref-45"></a>Uno, Y. et al. Divergence of repetitive DNA sequences in the heterochromatin of
 medaka fishes: Molecular cytogenetic characterization of constitutive
 heterochromatin in two medaka species: Oryzias hubbsi and O. celebensis
 10
 (Adrianichthyidae, Beloniformes). Cytogenet. Genome Res. 141, 212–226 (2013). [DOI](https://doi.org/10.1159/000354668)
-<a id="ref-46"></a>46. Fujiwara, A. et al. Improved fish lymphocyte culture for chromosome preparation.
+46. <a id="ref-46"></a>Fujiwara, A. et al. Improved fish lymphocyte culture for chromosome preparation.
 Genetica 111, 77–89 (2001). [DOI](https://doi.org/10.1023/a:1013788626712)
-<a id="ref-47"></a>47. Uno, Y. et al. Cell culture-based shark karyotyping as a resource for
+47. <a id="ref-47"></a>Uno, Y. et al. Cell culture-based shark karyotyping as a resource for
 chromosome-scale genome analysis. Commun. Biol. 3, 652 (2020). [DOI](https://doi.org/10.1038/s42003-020-01373-7)
