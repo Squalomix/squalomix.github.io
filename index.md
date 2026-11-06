@@ -29,7 +29,7 @@ Cartilaginous fishes (sharks, rays, chimaeras) charted an evolutionary trajector
 
 ​We integrate genome data with rigorous laboratory solutions. To navigate the highly variable genome organization across cartilaginous fishes, we anchor our sequencing output in empirical cellular-level analysis, enabling karyotyping and nuclear DNA content measurement. This biology-first foundation yields profound insights, including unveiling the evolutionary organization of their sex chromosomes, now recognized as the oldest among vertebrates.
 
-​Furthermore, we move beyond sequencing and computation. Informatically derived evolutionary hypotheses are reconstructively verified via experiments. Our in vitro systems embody this approach, enabling the exploration of unique adaptations, as demonstrated in our research on whale shark deep-sea vision.
+​Furthermore, we move beyond sequencing and computation. Informatically derived evolutionary hypotheses are reconstructively verified via experiments. Our in vitro systems embody this approach, enabling the exploration of unique adaptations, as demonstrated in [our research on whale shark deep-sea vision](achievements.md#seeing-in-the-deep-blue-the-whale-sharks-rhodopsin).
 
 ​Our scope spans from contributing to genetic monitoring of wild populations to deeply decoding their unique lifestyles. By deciphering the genomic grammar that translates the information encoded in DNA into higher-order biological phenomena—such as an organism's pace of life—we seek to elucidate the fundamental principles driving the vertebrate tree of life.
 
