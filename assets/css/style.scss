@@ -73,8 +73,19 @@ body { font-family: "Inter", "Noto Sans JP", "Helvetica Neue", Helvetica, Arial,
   footer { width: 250px; }
 }
 
+/* Hamburger toggle for the sidebar menu (narrow screens only;
+   the label is revealed inside the 960px media query below). */
+.nav-toggle { position: absolute; opacity: 0; pointer-events: none; }
+.nav-toggle-label { display: none; }
+
 @media screen and (max-width: 960px) {
-  .sidenav ul { display: flex; flex-wrap: wrap; gap: 2px 16px; }
+  /* Collapsed hamburger menu, so the top of the page stays compact
+     on phones; tapping "Menu" stacks the links vertically. */
+  .nav-toggle-label { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; border: 1px solid #cfd8e3; border-radius: 6px; padding: 6px 14px; font-size: 15px; color: #209CAB; background: #f7fafc; margin: 4px 0 12px; }
+  .sidenav { display: none; }
+  .nav-toggle:checked ~ .sidenav { display: block; }
+  .sidenav ul { display: flex; flex-direction: column; gap: 2px; }
+  .sidenav li { padding: 2px 0; }
   .sidenav h3 { margin-top: 10px; }
   header img { max-width: 170px; }
   section table { display: block; overflow-x: auto; }
