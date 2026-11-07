@@ -21,6 +21,12 @@
         <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
         <p>{{ site.description }}</p>
 
+        <!-- Hamburger toggle for narrow screens: the checkbox and its
+             label are shown only under the 960px breakpoint (CSS), and
+             checking it reveals the menu below. -->
+        <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-label"><span aria-hidden="true">☰</span> Menu</label>
+
         <!-- Left-side menu: main pages + topic pages (mostly one
              page per repository, plus Selected species and the
              Data Use Policy). This is the single customisation
