@@ -15,7 +15,7 @@ Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genet
 ## Collaborations
 
 - **Earth BioGenome Project (EBP)** — Squalomix is an [affiliated project](https://www.earthbiogenome.org/affiliated-project-networks) of this global initiative to sequence life on Earth, since 2020.
-- **European Reference Genome Atlas (ERGA)** — [partnership](https://www.erga-biodiversity.eu/) in the pan-European effort to produce reference genomes for biodiversity research, since 2025.
+- **European Reference Genome Atlas (ERGA)** — [partnership](https://www.erga-biodiversity.eu/community-contacts) in the pan-European effort to produce reference genomes for biodiversity research, since 2025.
 - **Shark-References** — [partnership](https://shark-references.com/) with the literature and taxonomy database for chondrichthyan research, since 2025.
 - **Aquariums and marine stations** — public aquariums and marine stations collaborate with us in sampling, giving access to rare and endangered species that are otherwise inaccessible, as in our long-standing work with Okinawa Churaumi Aquarium on the whale shark. We collaborate with the following aquariums: Okinawa Churaumi Aquarium, Osaka Aquarium Kaiyukan, Aquamarine Fukushima, Marine Science Museum (Tokai University), Aqua Park Shinagawa, Shimoda Aquarium, Suma Aqualife Park, Enoshima Aquarium, Aqua World Oarai, Georgia Aquarium (USA), Yokohama Hakkeijima Sea Paradise, Marine World Uminonakamichi, Izu Mito Sea Paradise, Yogyo Aquarium, Kyoto Aquarium, and Takeshima Aquarium. Our partners also include Izu Chuo Suisan, the Ushimado Marine Institute of Okayama University, and Centro Studi Squali in Italy.
 
