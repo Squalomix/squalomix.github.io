@@ -97,6 +97,13 @@ body { font-family: "Inter", "Noto Sans JP", "Helvetica Neue", Helvetica, Arial,
 .fig-cap { font-size: 13px; color: #555; margin: 4px 0 10px; }
 .achieve-fig.narrow { width: 320px; }
 
+/* Species page data table (raw HTML in species.md): the seven data
+   columns get vertical headers reading bottom-to-top, so the wide
+   table fits the content column without sideways scrolling. */
+.species-table th.v { vertical-align: bottom; text-align: center; }
+.species-table th.v span { writing-mode: vertical-rl; text-orientation: sideways; transform: rotate(180deg); display: inline-block; white-space: nowrap; }
+.species-table td.c { text-align: center; }
+
 /* Console-style blocks (command lines and options on the Repeats and
    UTR modeling pages) read oversized at the body size; set them smaller. */
 pre, pre code { font-size: 13px; line-height: 1.55; }
