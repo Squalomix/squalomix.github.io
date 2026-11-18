@@ -27,7 +27,7 @@ Last updated on May 27, 2026
 <tr><td>★ Megamouth shark  <i>Megachasma pelagios</i></td><td class="c">●</td><td class="c">●</td><td class="c">●</td><td class="c"></td><td class="c"></td><td class="c">●</td><td class="c">●</td><td></td></tr>
 <tr><td>Blue shark <i>Prionace glauca</i></td><td class="c">●</td><td class="c">●</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">●</td><td class="c">●</td><td></td></tr>
 <tr><td>Shortfin mako <i>Isurus oxyrinchus</i></td><td class="c"></td><td class="c">●</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">●</td><td class="c">●</td><td></td></tr>
-<tr><td>Porbeagle shark <i>Lamna nasus</i></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">●</td><td class="c">●</td><td></td></tr>
+<tr><td>Porbeagle <i>Lamna nasus</i></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">●</td><td class="c">●</td><td></td></tr>
 <tr><td>Basking shark  <i>Cetorhinus maximus</i></td><td class="c"></td><td class="c">●</td><td class="c">●</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td></td></tr>
 <tr><td>Coral catshark <i>Atelomycterus marmoratus</i></td><td class="c">●</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td></td></tr>
 <tr><td>Sandbar shark <i>Carcharhinus plumbeus</i></td><td class="c">●</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td></td></tr>
