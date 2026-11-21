@@ -24,7 +24,7 @@ permalink: /about/
 
 ## Funding
 
-The consortium is based at the National Institute of Genetics (NIG) in Mishima, Japan, and its activities have been supported by RIKEN and NIG, by the Japan Society for the Promotion of Science (JSPS), and by commissioned projects of the Fisheries Agency of Japan.
+The consortium is based at the National Institute of Genetics (NIG) in Mishima, Japan, and its activities have been supported by RIKEN (the Leader's affiliation when the consortium was launched in 2020) and NIG, by the Japan Society for the Promotion of Science (JSPS), and by commissioned projects of the Fisheries Agency of Japan.
 
 <div class="accent-bar" aria-hidden="true"></div>
 
