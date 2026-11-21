@@ -6,6 +6,12 @@ permalink: /about/
 
 # About
 
+## Team organization
+
+We are researchers and technical staff based at various organizations, united by the scientific and social values we find in cartilaginous fishes.
+
+<div class="accent-bar" aria-hidden="true"></div>
+
 ## Collaborations
 
 - **Earth BioGenome Project (EBP)** — Squalomix is an [affiliated project](https://www.earthbiogenome.org/affiliated-project-networks) of this global initiative to sequence life on Earth, since 2020.
