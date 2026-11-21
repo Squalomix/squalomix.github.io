@@ -36,12 +36,6 @@ The consortium is based at the National Institute of Genetics (NIG) in Mishima, 
 
 <div class="accent-bar" aria-hidden="true"></div>
 
-## コンソーシアムの概要
-
-Squalomix（スクアロミクス）は、サメ・エイ・ギンザメなどの軟骨魚類を対象に、ゲノムをはじめとする分子レベルの情報を読み解き、その多様性と進化の理解を目指すコンソーシアムです。2020年に発足し、国立遺伝学研究所・分子生命史研究室（代表：Shigehiro Kuraku）が中心となって、水族館や臨海実験所、国内外の研究機関と連携しながら活動しています。染色体レベルのゲノム解読に、核型やゲノムサイズの実測、細胞培養による検証を組み合わせるなど、ゲノムシークエンス以外の分子レベル・細胞レベルのアプローチを積極利用し、軟骨魚類らしさに迫ろうとしています。詳しくは [Home](index.md) と [History](history.md) をご覧ください。
-
-<div class="accent-bar" aria-hidden="true"></div>
-
 ## Get involved
 
 Squalomix is an open consortium, and there is no formal procedure for joining. Taking part involves no obligations: no contribution to a common budget, and no requirement to provide samples.
@@ -55,3 +49,9 @@ If you are interested, please first contact the Leader: Shigehiro Kuraku (skurak
 ## Leader
 
 Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genetics, Japan, where he heads the [Molecular Life History Laboratory](https://www.treethinkers.info/squalomix).
+
+<div class="accent-bar" aria-hidden="true"></div>
+
+## コンソーシアムの概要
+
+Squalomix（スクアロミクス）は、サメ・エイ・ギンザメなどの軟骨魚類を対象に、ゲノムをはじめとする分子レベルの情報を読み解き、その多様性と進化の理解を目指すコンソーシアムです。2020年に発足し、国立遺伝学研究所・分子生命史研究室（代表：Shigehiro Kuraku）が中心となって、水族館や臨海実験所、国内外の研究機関と連携しながら活動しています。染色体レベルのゲノム解読に、核型やゲノムサイズの実測、細胞培養による検証を組み合わせるなど、ゲノムシークエンス以外の分子レベル・細胞レベルのアプローチを積極利用し、軟骨魚類らしさに迫ろうとしています。詳しくは [Home](index.md) と [History](history.md) をご覧ください。
