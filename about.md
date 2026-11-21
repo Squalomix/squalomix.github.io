@@ -8,6 +8,8 @@ permalink: /about/
 
 ## Team organization
 
+Squalomix is the only active and lasting genome consortium dedicated to cartilaginous fishes.
+
 We are researchers and technical staff based at various organizations, united by the scientific and social values we find in cartilaginous fishes.
 
 <div class="accent-bar" aria-hidden="true"></div>
@@ -52,4 +54,4 @@ If you are interested, please first contact the Leader: Shigehiro Kuraku (skurak
 
 ## Leader
 
-Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genetics, Japan, where he heads the [Molecular Life History Laboratory](https://www.treethinkers.info/squalomix). Squalomix is the **only genome consortium dedicated to cartilaginous fishes**.
+Squalomix is led by **Shigehiro Kuraku**, Professor, National Institute of Genetics, Japan, where he heads the [Molecular Life History Laboratory](https://www.treethinkers.info/squalomix).
