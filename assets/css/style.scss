@@ -104,6 +104,11 @@ body { font-family: "Inter", "Noto Sans JP", "Helvetica Neue", Helvetica, Arial,
 .species-table th.v span { writing-mode: vertical-rl; text-orientation: sideways; transform: rotate(180deg); display: inline-block; white-space: nowrap; }
 .species-table td.c { text-align: center; }
 
+/* The base theme bolds links on hover/focus, which makes linked
+   entries (e.g. in the History timeline) look uneven next to
+   unlinked ones; keep the link weight constant everywhere. */
+a:hover, a:focus { font-weight: inherit; }
+
 /* Console-style blocks (command lines and options on the Repeats and
    UTR modeling pages) read oversized at the body size; set them smaller. */
 pre, pre code { font-size: 13px; line-height: 1.55; }
